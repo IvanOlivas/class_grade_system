@@ -11,4 +11,4 @@ These excel files will be used to import the grades to the database. The softwar
 - Add new grades of courses for each student to a database
 - Editing, changing, or adding a grade to the database
 - Print a report card (or transcript) for a student
-- Logging In and Logging Out of system for security purposes
+- Logging in and logging out of system for security purposes
