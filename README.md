@@ -12,3 +12,5 @@ These excel files will be used to import the grades to the database. The softwar
 - Editing, changing, or adding a grade to the database
 - Print a report card (or transcript) for a student
 - Logging in and logging out of system for security purposes
+
+Languages/Tools used: C# ASP.NET, Visual Studio, MariaDB(SQL)
